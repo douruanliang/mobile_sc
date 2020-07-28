@@ -1,0 +1,10 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="version_text_size">16sp</dimen>
+    <dimen name="sp_14">14sp</dimen>
+    <dimen name="base_no_internet">75dp</dimen>
+    <dimen name="empty_view_top_margin">180dp</dimen>
+    <dimen name="empty_view_top_margin_for_fragment">380dp</dimen>
+    <dimen name="setting_title_size">22sp</dimen>
+    <dimen name="setting_radio_button_size">20sp</dimen>
+</resources>

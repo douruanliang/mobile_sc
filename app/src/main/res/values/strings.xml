@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">学考在线</string>
+    <!-- 无法连接到网络，请检查网络 -->
+    <string name="no_internet">Unable to connect to network, check your connection.</string>
+    <string name="loading">正在加载。。。</string>
+    <string name="tip_no_data">暂无数据</string>
+</resources>
